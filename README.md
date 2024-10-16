@@ -1,5 +1,7 @@
 # Multifunctional Calculator App🧮
 
+![Multifunctional Calculator](https://github.com/user-attachments/assets/cab7df5a-679f-4481-b364-7872d2f943dd)
+
 A Flutter-based calculator application that supports both basic and advanced mathematical operations. The Multifunctional Calculator is designed with a clean user interface and provides various functionalities like standard operations, scientific calculations, and other useful utilities.
 
 ## Features
